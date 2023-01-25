@@ -25,6 +25,11 @@
 
 # COMMAND ----------
 
+# MAGIC %sql
+# MAGIC --Test
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC ## Create Cluster
 # MAGIC 
